@@ -2,8 +2,6 @@
 
 <h1>RevivalTax<img src="https://github.com/NhanAZ/RevivalTax/blob/main/images/icon.png" height="64" width="64"  align="left"></img></h1><br/>
 
-The player will be deducted the revival tax on death.<br/>
-
 # Features
 - The player will be deducted the revival tax on death.
 
