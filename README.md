@@ -12,6 +12,7 @@ How to setup? Very simple! Follow the steps below:
 - Step 5: Then edit tax percentage and tax withholding notice at `config.yml`
 
 # Images
+<img src="https://github.com/NhanAZ/RevivalTax/blob/main/images/ingame.png" />
 
 # Config
 ## config.yml
