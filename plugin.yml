@@ -1,0 +1,9 @@
+---
+name: RevivalTax
+version: 0.0.1
+main: NhanAZ\RevivalTax\Main
+api: 3.22.2
+description: The player will be deducted the revival tax on death.
+website: https://github.com/NhanAZ
+depend: [EconomyAPI]
+...
