@@ -2,7 +2,7 @@
 
 [![](https://poggit.pmmp.io/shield.state/RevivalTax)](https://poggit.pmmp.io/p/RevivalTax)
 
-The player will be deducted the revival tax on death.
+The player will be deducted the revival tax on death. A useful plugin for RPG survival servers?
 
 # Setup
 How to setup? Very simple! Follow the steps below:
