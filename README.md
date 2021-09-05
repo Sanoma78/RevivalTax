@@ -1,3 +1,7 @@
+<img src="https://github.com/NhanAZ/RevivalTax/blob/main/images/NhanAZ.gif" />
+
+<h1>RevivalTax<img src="https://github.com/NhanAZ/RevivalTax/blob/main/images/icon.png" height="64" width="64"  align="left"></img></h1><br/>
+
 The player will be deducted the revival tax on death.<br/>
 
 # Features
@@ -8,7 +12,7 @@ How to setup? Very simple! Follow the steps below:
 - Step 1: Download the plugin and put it in plugins`(PocketMine-MP/plugins)`
 - Step 2: Start the server to load `config.yml`
 - Step 3: After server startup is complete, stop the server.
-- Step 4: Go to the path `PocketMine-MP/plugin_data//config.yml`
+- Step 4: Go to the path `PocketMine-MP/plugin_data/RevivalTax/config.yml`
 - Step 5: Then edit tax percentage and tax withholding notice at `config.yml`
 
 # Images
