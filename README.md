@@ -1,5 +1,3 @@
-<img src="https://github.com/NhanAZ/RevivalTax/blob/main/images/NhanAZ.gif" />
-
 <h1>RevivalTax<img src="https://github.com/NhanAZ/RevivalTax/blob/main/images/icon.png" height="64" width="64"  align="left"></img></h1><br/>
 
 # Features
